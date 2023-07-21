@@ -1,3 +1,5 @@
+![María Marcela Balzarelli](https://www.canva.com/design/DAFpRlYmwqs/lA2I7gi-kvnMoey6MVWu3g/edit?utm_content=DAFpRlYmwqs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <h1 align="center">Hola 👋, Soy María Marcela Balzarelli</h1>
 <h3 align="center">Licenciada en Matemática y Científica de Datos. Me apasiona trabajar con datos y desarrollar soluciones creativas para problemas complejos.</h3>
 
