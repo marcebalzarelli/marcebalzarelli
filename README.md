@@ -1,5 +1,29 @@
-<h1 align="center">Hi 👋, I'm María Marcela Balzarelli</h1>
-<h3 align="center">Soy una Matemática y Científica de Datos apasionada por el emocionante mundo de los datos</h3>
+<h1 align="center">Hola 👋, Soy María Marcela Balzarelli</h1>
+<h3 align="center">Licenciada en Matemática y Científica de Datos. Me apasiona trabajar con datos y desarrollar soluciones creativas para problemas complejos.</h3>
+
+- 🔭 Actualmente estoy trabajando en [Proyecto de Data Analytics](https://github.com/marcebalzarelli/PI2-Data_Analytics-Telecomunicaciones.git)
+
+- 🌱 **Actualmente, estoy reforzando mis conocimientos en Machine Learning con una ruta de aprendizaje de AWS. Mi objetivo es ampliar mis habilidades en el mundo del Machine Learning y aplicar mis conocimientos en proyectos prácticos.**
+
+- 👯 **Estoy abierta a colaboraciones en diversas áreas, desde análisis de datos hasta desarrollo de aplicaciones y todo lo que involucre el uso de mi experiencia en matemática y ciencia de datos.**
+
+- 💬 **Preguntame acerca de...**
+
+  -Python: Experiencia en el uso de pandas, numpy, seaborn, scikit-learn y matplotlib para el análisis y manipulación de datos, así como la implementación de algoritmos de Machine Learning.
+
+  -SQL: Habilidades sólidas en consultas SQL para la gestión y análisis de bases de datos relacionales.
+
+  -Power BI: Experiencia en la creación de visualizaciones interactivas y tableros dinámicos para comunicar datos de manera efectiva.
+
+  -Machine Learning: Conocimientos en técnicas de aprendizaje supervisado y no supervisado, así como la aplicación de modelos predictivos en diferentes dominios, incluyendo modelos de regresión para análisis predictivo.
+
+  -Análisis de Datos: Capacidad para realizar análisis exploratorio de datos (EDA) y obtener información significativa para la toma de decisiones.
+
+**¡Estoy emocionada de compartir mis conocimientos y colaborar en proyectos relacionados con estas áreas, incluyendo la regresión en modelos de Machine Learning!**
+
+- 📫 Ponte en contacto conmigo **marcebalzarelli@gmail.com**
+
+- ⚡ **Amo pasar tiempo con mi familia y disfrutar de emocionantes series de crímenes y jugar videojuegos en mi tiempo libre. ¡Siempre lista para compartir experiencias y conversar sobre estos temas! 😄📺🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
