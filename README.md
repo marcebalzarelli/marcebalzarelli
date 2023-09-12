@@ -3,7 +3,7 @@
 <h1 align="center">Hola 👋, Soy María Marcela Balzarelli</h1>
 <h3 align="center">Licenciada en Matemática y Científica de Datos. Me apasiona trabajar con datos y desarrollar soluciones creativas para problemas complejos.</h3>
 
-- 🔭 Actualmente estoy trabajando en [Proyecto de Data Analytics](https://github.com/marcebalzarelli/PI2-Data_Analytics-Telecomunicaciones.git)
+- 🔭 Actualmente estoy trabajando en [Modelo de Predicción de Desordenes Mentales](https://github.com/marcebalzarelli/Modelo_Desordenes_Mentales)
 
 - 🌱 **Actualmente, estoy reforzando mis conocimientos en Machine Learning con una ruta de aprendizaje de AWS. Mi objetivo es ampliar mis habilidades en el mundo del Machine Learning y aplicar mis conocimientos en proyectos prácticos.**
 
